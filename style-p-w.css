@@ -1,0 +1,101 @@
+body{
+    font-family: sans-serif;
+}
+section{
+    height: 650px;
+}
+#name{
+    color: purple;
+}
+/*for hire me*/
+.float{
+    width: 40%;
+    float: left;
+    margin: 5px;
+    margin-top: 120px;
+    
+}
+.images{
+    width: 400px;
+}
+.text{
+    margin-left: 180px;
+    margin-top: 200px;
+    
+}
+.img{
+   margin-right: 60px;
+}
+.secbkimg1{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 10px;
+    background-image: linear-gradient(90deg, red, blue);
+    color: white;
+    border-radius: 5px;
+}
+
+/*for biography*/
+.float2{
+    width: 40%;
+    float: right;
+    margin: 5px;
+    margin-top: 120px;
+    
+}
+.text2{
+margin-right: 100px;
+margin-top: 200px;
+}
+.img2{
+    margin-left: 40px;
+}
+.secbkimg2{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+
+/*Latest work*/
+.secbkimg3{
+    background-image: url(footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 1400px ;
+}
+.text3{
+    text-align: center;
+}
+.float3{
+    margin-left: 25px;
+    
+}
+.img3{
+    width: 350px;
+    padding-left: 50px;
+}
+#mail-text{
+    font-size: 10px;
+    text-transform: uppercase;
+    
+}
+.button1{
+    background-image:linear-gradient(90deg, red, blue); 
+   
+}
+h4{
+    font-size: 10px;
+    font-weight: 100;
+}
+#c-name{
+    font-size: 12px;
+    font-weight: bold;
+}
+h3{
+    font-size: 11px;
+    font-weight: 100;
+    padding-bottom: 10px;
+}
